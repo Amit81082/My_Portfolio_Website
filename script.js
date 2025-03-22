@@ -47,14 +47,14 @@ window.onscroll = () => {
 
 ScrollReveal({
     reset: true,
-    distance: '50px',
+    distance: '80px',
     duration: 2000,
     delay: 0
 });
 ScrollReveal().reveal('.home-content, .heading', { origin: 'top' });
 ScrollReveal().reveal('.homme-img, .services-container, .portfolio-box, .contact form', { origin: 'bottom' });
-ScrollReveal().reveal('.homme-content h1, .about-img', { origin: 'left' });
-ScrollReveal().reveal('.homme-content p, .about-content', { origin: 'right' });
+ScrollReveal().reveal('.home-content h1, .about-img', { origin: 'left' });
+ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 
 // ==================== typed js ===================
