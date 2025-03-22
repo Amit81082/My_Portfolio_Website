@@ -20,9 +20,12 @@ This is my **personal portfolio website** showcasing my skills, projects, and co
 - **JavaScript:** Interactive functionality
 
 ## 📸 Screenshots
-![Home Page](./project-1.png)
-![Projects Section](./project-2.jpg)
-![Contact Form](./project-3.png)
+![Home Page]  ![image](https://github.com/user-attachments/assets/44a522ce-cba5-43db-b350-ada7c98a5e89)
+
+![Projects Section] ![image](https://github.com/user-attachments/assets/283d96ca-a901-4f42-8372-42a97fc153a2)
+
+![Contact Form]  ![image](https://github.com/user-attachments/assets/483162b6-bba1-4ee4-b7af-a96ecc67447c)
+
 
 ## ⚙️ Installation & Usage
 1. Clone the repository:
