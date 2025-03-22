@@ -42,7 +42,7 @@ git clone https://github.com/Amit81082/My_Portfolio_Website.git
 ## 📞 Contact
 - 📧 **Email:** amitkumarmaurya10122005@gmail.com 
 - 💼 **GitHub:** [Amit81082](https://github.com/Amit81082)
-- 🌐 **LinkedIn:** [Your LinkedIn Profile]([www.linkedin.com/in/amit-maurya-8782052b7](https://www.linkedin.com/in/amit-maurya-8782052b7/))
+- 🌐 **LinkedIn:** [Your LinkedIn Profile] https://www.linkedin.com/in/amit-maurya-8782052b7/
 
 ## ⭐ Contribute
 If you like this project, consider giving it a ⭐ and fork it!
