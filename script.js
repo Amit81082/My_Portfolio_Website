@@ -7,9 +7,9 @@ menuIcon.onclick = () => {
 }
 // current year extract and put into footer
 
-let currentDate = new Date();
-let currentyear = currentDate.getFullYear()
-document.getElementById("current-year").textContent = currentyear;
+// let currentDate = new Date();
+// let currentyear = currentDate.getFullYear()
+// document.getElementById("current-year").textContent = currentyear;
 
 
 // scroll section active link
